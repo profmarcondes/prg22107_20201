@@ -187,3 +187,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+/QT/*/build-*
